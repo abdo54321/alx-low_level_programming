@@ -11,5 +11,5 @@ for (letter = 'a'; letter <= 'z'; letter++)
 {
 _putchar (letter);
 }
-_puichar (10);
+_putchar (10);
 }
