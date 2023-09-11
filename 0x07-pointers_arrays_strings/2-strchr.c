@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strchr - prints from the first occurrence of a char.
  * @s: source string
